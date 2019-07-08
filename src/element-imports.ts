@@ -1,0 +1,1 @@
+import '@appnest/web-router';
